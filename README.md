@@ -1,6 +1,6 @@
-# Relaxio 
+# DrinkSearcher
 
-Drink Searcher is a web app that allows potential customers to look up the specifics of the drinks. It was created using HTML5, CSS3, Javascript, and Reactjs.
+DrinkSearcher is a web app that allows potential customers to look up the specifics of the drinks. It was created using HTML5, CSS3, Javascript, and Reactjs.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
